@@ -1,7 +1,7 @@
 import 'package:collection/collection.dart';
 import 'package:flutter/foundation.dart';
 import 'package:mobx/mobx.dart';
-import 'package:schoolmanagement/model/models.dart';
+import 'package:schoolmanagement/models/models.dart';
 
 part 'teacher_store.g.dart';
 
